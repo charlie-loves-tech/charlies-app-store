@@ -12,7 +12,7 @@ It works great for me, but mileage may vary.
 
 | App | Description |
 | :--- | :--- |
-| **anchor notes** | A lightweight, self-hosted markdown note-taking app. |
+| **anchor** | A lightweight, self-hosted markdown note-taking app. |
 | **baikal** | A lightweight CalDAV and CardDAV server for syncing calendars and contacts. |
 | **changedetection** | A tool to monitor websites for content changes and send notifications. |
 | **commafeed** | A minimalist, open-source RSS aggregator inspired by Google Reader. |
