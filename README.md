@@ -21,6 +21,7 @@ It works great for me, but mileage may vary.
 | **microbin** | A tiny, self-hosted pastebin for sharing text and code snippets. |
 | **omnitools** | A suite of web utilities for common technical and developer tasks. |
 | **owncloud** | A suite for self-hosting file synchronization and cloud storage. |
+| **redlib** | A private, lightweight front-end for Reddit. |
 | **searxng** | A privacy-focused, hackable metasearch engine. |
 | **shinobi** | An open-source NVR and CCTV video surveillance platform. |
 | **stirling-pdf** | A self-hosted web tool for merging, splitting, and editing PDFs. |
